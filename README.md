@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Power BI Corporate Trainer passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Power BI Corporate Trainer passionate about helping professionals & businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
