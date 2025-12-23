@@ -24,16 +24,15 @@ When I'm not working with data, I enjoy traveling,Swimming,Reading content onlin
 ### [🏆 Check Out My Full Portfolio Website]([(https://pratikshasb694.github.io/)])
       
 ## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+ 
+- **Project A:** Working on Market analysis project using power BI. 
+- **Content Preparation:** Revising Python, Python libraries and Streamlit.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
+-  Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
+  
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
