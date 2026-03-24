@@ -35,32 +35,37 @@ I specialize in building **interactive dashboards, data models, and KPI-driven r
 
 ## 📊 Featured Projects  
 
-### 🔹 Sales Performance Dashboard  
-- Built an end-to-end Power BI dashboard using structured sales data  
-- Designed KPIs: Revenue, Profit, Growth Trends  
-- Implemented star schema data model  
-- Delivered insights on regional and product performance  
+### 🔹 Sales Performance Analysis Dashboard | Power BI, DAX	
+•	Performed data extraction and preprocessing using SQL and Power Query & analyzed multi-dimensional sales data across regions, product categories, and time periods using Power BI.  
+•	Built a star schema data model and created DAX measures to track KPIs such as total revenue, profit margin, and YoY growth.
+•	Developed interactive dashboards with drill-down and filter capabilities, improving data visibility by 40%.
+•	Identified top-performing products and underperforming regions, enabling data-driven inventory and sales strategy decisions. 
+ 
 
 ---
 
-### 🔹 HR Analytics Dashboard  
-- Analyzed employee attrition and retention patterns  
-- Created interactive dashboards for HR decision-making  
-- Used DAX for calculated measures and KPIs  
+### 🔹 Customer Churn Analysis Dashboard | Power BI, DAX	
+•	Analyzed customer demographics, usage patterns, and feedback data to identify churn drivers. 
+•	Created calculated columns and 12+ DAX measures to track KPIs such as churn rate, customer tenure, and satisfaction score. 
+•	Designed interactive dashboards to segment customers based on risk levels, improving churn analysis efficiency by 35%.
+•	Identified high-risk customer segments, enabling proactive retention strategies and improving customer retention insights by 30%. 
+  
 
 ---
 
-### 🔹 Market Analysis Dashboard *(Ongoing)*  
-- Working with real-world datasets  
-- Performing data cleaning and transformation  
-- Building business-driven visualizations and insights  
+### 🔹Financial Performance Dashboard | Power BI, DAX
+•	Analyzed financial data including income, expenses, and departmental performance using Power BI.  
+•	Developed data models and 18+ DAX measures to track KPIs such as net profit, cost-to-income ratio, and budget vs actuals.  
+•	Built dynamic dashboards with drill-through features, improving financial reporting efficiency by 45%. 
+•	Delivered insights on cost optimization and department-level profitability to support strategic planning.
+  
 
 ---
 
 ## 🔭 What I'm Currently Working On  
 
 - Building end-to-end Power BI projects using real-world datasets  
-- Exploring **Streamlit** for interactive data applications  
+- Exploring **New updates of power BI** for interactive data applications  
 - Strengthening Python for data analysis and automation  
 
 ---
@@ -68,7 +73,7 @@ I specialize in building **interactive dashboards, data models, and KPI-driven r
 ## 🌱 Currently Learning  
 
 - Advanced data analysis using Python (Pandas, NumPy, Scikit-learn)  
-- Cloud data warehousing with Google BigQuery  
+- Revising EXCEL & SQL concepts  
 - Data storytelling and advanced dashboard design  
 
 ---
